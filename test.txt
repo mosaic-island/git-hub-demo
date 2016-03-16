@@ -11,3 +11,6 @@ And more work
 
 
 Some work happening on develop during feature 3
+
+
+Added to the new remote feature
