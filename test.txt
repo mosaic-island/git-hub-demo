@@ -1,1 +1,14 @@
 First bit of code
+
+The feature has seen some more change
+Continuing work on the main develop branch
+
+And yet more work
+
+Yet more work on a new feature
+
+And more work
+
+More work on feature 3
+
+Some work happening on develop during feature 3
