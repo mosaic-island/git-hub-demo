@@ -1,6 +1,6 @@
 = Which? Batch Application
 //:hide-uri-scheme:
-:toc: left
+:toc: macro
 :toclevels: 4
 
 include::src/docs/asciidoc/another-page.adoc[Another Page]
