@@ -1,3 +1,10 @@
+= Which? Batch Application
+//:hide-uri-scheme:
+:toc: left
+:toclevels: 4
+
+include::src/docs/asciidoc/another-page.adoc[]
+
 = This is a GitHub Demonstration
 
 Testing out the documentation facilities
