@@ -3,7 +3,7 @@
 :toc: macro
 :toclevels: 4
 
-include::src/docs/asciidoc/another-page.adoc[Another Page]
+[Read more words!](src/docs/asciidoc/another-page.adoc)
 
 = This is a GitHub Demonstration
 
