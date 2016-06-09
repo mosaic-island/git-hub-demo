@@ -1,9 +1,9 @@
-= Which? Batch Application
+http://= Which? Batch Application
 //:hide-uri-scheme:
 :toc: macro
 :toclevels: 4
 
-[Read more words!](src/docs/asciidoc/another-page.adoc)
+link:src/docs/asciidoc/another-page.adoc[Read more words!]
 
 = This is a GitHub Demonstration
 
@@ -26,3 +26,34 @@ Testing out the documentation facilities
 |Column 2, row 3
 |Column 3, row 3
 |===
+[= Which? Batch Application
+//:hide-uri-scheme:
+:toc: macro
+:toclevels: 4
+
+[Read more words!](src/docs/asciidoc/another-page.adoc)
+
+
+
+= This is a GitHub Demonstration
+
+Testing out the documentation facilities
+
+
+.A Table
+|===
+|Header 1 |Header 2 |Header 3
+
+|Column 1, row 1
+|Column 2, row 1
+|Column 3, row 1
+
+|Column 1, row 2
+|Column 2, row 2
+|Column 3, row 2
+
+|Column 1, row 3
+|Column 2, row 3
+|Column 3, row 3
+|===
+]
